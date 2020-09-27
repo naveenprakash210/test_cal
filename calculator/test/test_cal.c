@@ -8,7 +8,7 @@ void tearDown() {}
 
 void testing_pallindrome_number(void)
 {
-    TEST_ASSERT_EQUAL(2, add(2,2));
+    TEST_ASSERT_EQUAL(4, add(2,2));
     TEST_ASSERT_EQUAL(2, substract(4,2));
 
 }
